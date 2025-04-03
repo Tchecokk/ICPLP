@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+    background-color: #efe5e5;
+    font-family: 'Montserrat', sans-serif;
+    color: #675c5c;
+}
+
+nav {
+    position: relative;
+    background-color: #f1d9c1;
+    padding: 10px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+img.logo {
+    width: 260px;
+    height: 170px;
+}
+img {
+    width: 200px ;
+    height: 200px ;
+}
+
+div.exLP {
+    display: flex;
+    justify-content: space-around;  
+}
+
+div.pLP {
+    display: flex;
+    justify-content: space-around;
+}
